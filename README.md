@@ -50,15 +50,18 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
   <!-- Streak Stats -->
-  <img width=390 src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
+  <img width=400 src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 
   <!-- GitHub Stats -->
   <img width=390 src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 <!--
 **Gustavocoello/Gustavocoello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
