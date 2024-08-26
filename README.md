@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **Pytorch, kubernetes, AWS, JenKins**
 
-💬 Ask me about **Since I was young, I've always been fascinated by software, laptops, setups, and solving Windows issues. I've spent a lot of time fixing these problems, and now, with my knowledge in Data Science, I solve problems using data.**
+ 💬 Ask me about **Since I was young, I've always been fascinated by software, laptops, setups, and solving Windows issues. <div> I've spent a lot of time fixing these problems, and now, with my knowledge in Data Science, I solve problems using data</div>.**
 
 ⚡ Fun fact **Play Video Games and Soccer are my hobbies**
 
@@ -49,6 +49,15 @@
     <img src="https://skillicons.dev/icons?i=kubernetes,fastapi" />
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <!-- Streak Stats -->
+  <img width=390 src="https://github-readme-streak-stats-gustavo-coellos-projects.vercel.app/?user=Gustavocoello&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <!-- GitHub Stats -->
+  <img width=390 src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
 
 <!--
