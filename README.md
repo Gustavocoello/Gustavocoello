@@ -15,9 +15,9 @@
 <br/>
 <div align="center">
     <!-- Lenguajes de Programación -->
-    <img src="https://skillicons.dev/icons?i=python,SQL" />
+    <img src="https://skillicons.dev/icons?i=python" />
     <!-- Bibliotecas y Frameworks de Machine Learning -->
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,xgboost" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
     <!-- Big Data y Bases de Datos -->
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <!-- Herramientas de Desarrollo y Control de Versiones -->
