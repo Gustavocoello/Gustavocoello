@@ -1,4 +1,8 @@
+<p align=center><img src=<p align=center><img src=https://media.licdn.com/dms/image/v2/D4E16AQHmIJbUhdaWvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724549152258?e=1730332800&v=beta&t=pDnK7ode2BwxCLll55aOuzGFDKvOJ2HtOCcmyqK_A7k><p>
+
 ## Hi there 👋
+
+
 
 <!--
 **Gustavocoello/Gustavocoello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
