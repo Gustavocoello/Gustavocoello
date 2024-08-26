@@ -1,4 +1,4 @@
-<img align = "right" src="https://visitor-badge.laobi.icu/badge?page_id=Gustavocoello.visitor-badge"> 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 <p align=center><img src=https://raw.githubusercontent.com/Gustavocoello/Gustavocoello/main/jpg/Github%20Banner.png></p>
 
