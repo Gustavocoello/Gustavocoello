@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **Pytorch, kubernetes, AWS, JenKins**
 
-💬 Ask me about **Since I was young I have always liked programs, laptops, setups and solving Windows problems, I have always spent a lot of time solving them, now that I have knowledge in Data I solve problems using data.**
+💬 Ask me about **Since I was young, I've always been fascinated by software, laptops, setups, and solving Windows issues. I've spent a lot of time fixing these problems, and now, with my knowledge in Data Science, I solve problems using data.**
 
 ⚡ Fun fact **Play Video Games and Soccer are my hobbies**
 
@@ -27,8 +27,10 @@
   <a href="mailto:coellog634@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/gustavo-coello-01039b270" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+ <a href="https://www.linkedin.com/in/gustavo-coello-01039b270" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
   </a>
 </div>
 
