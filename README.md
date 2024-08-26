@@ -53,7 +53,7 @@
 <br>
 <div align="center">
   <!-- Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats-gustavo-coellos-projects.vercel.app/?user=Gustavocoello&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 
   <!-- GitHub Stats -->
   <img width=390 src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
