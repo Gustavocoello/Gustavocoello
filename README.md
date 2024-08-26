@@ -1,4 +1,4 @@
-<p align=center><img src=https://file.notion.so/f/f/281c520f-5a60-48ab-8d34-89d683e6f827/18447926-a71a-4288-8cd4-dfed8238ed64/Github_Banner.png?table=block&id=a3ec9262-39ec-4fc4-9550-c6d98a9bd2d1&spaceId=281c520f-5a60-48ab-8d34-89d683e6f827&expirationTimestamp=1724803200000&signature=2VP9goN3nWEMf4PUphgetAqis5v3_vcav7WLxaot88Y&downloadName=Github+Banner.png></p>
+<p align=center><img src=https://raw.githubusercontent.com/Gustavocoello/Gustavocoello/main/jpg/Github%20Banner.png></p>
 
 ## Hi there 👋
 
