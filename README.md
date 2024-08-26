@@ -15,19 +15,15 @@
 <br/>
 <div align="center">
     <!-- Lenguajes de Programación -->
-    <img src="https://skillicons.dev/icons?i=python,r,sql,jupyter,julia" />
+    <img src="https://skillicons.dev/icons?i=python,SQL" />
     <!-- Bibliotecas y Frameworks de Machine Learning -->
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,xgboost" />
-    <!-- Análisis y Manipulación de Datos -->
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,spark" />
-    <!-- Visualización de Datos -->
-    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,plotly,powerbi" />
     <!-- Big Data y Bases de Datos -->
-    <img src="https://skillicons.dev/icons?i=hadoop,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <!-- Herramientas de Desarrollo y Control de Versiones -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <!-- Entornos de Despliegue y MLOps -->
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi" />
 </div>
 
 <!--
