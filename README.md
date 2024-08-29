@@ -51,9 +51,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="390" src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats" style="margin: 0 10px;" />
+  <img src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak   
+ stats" style="width: 390px; max-height: 200px;" />
 
-  <img width="390" src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="margin: 0 10px;" />
+  <img src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="width: 390px; max-height: 200px;" />
 </div>
 
 <div align="center">
