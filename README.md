@@ -50,12 +50,15 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="readme stats" style="max-height: 180px; margin-right: 20px;" />
-  
-  <img src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="max-height: 180px;" />
-</div>
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api/top-langs/?username=Gustavocoello&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="readme stats" style="max-height: 180px;" />
+  </div>
+  <div style="text-align: center;">
+    <h3>Gustavo Coello's GitHub Stats</h3>
+    <img src="https://github-readme-stats-gustavo-coellos-projects.vercel.app/api?username=Gustavocoello&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="max-height: 180px;" />
+  </div>
 </div>
 
 <div align="center">
