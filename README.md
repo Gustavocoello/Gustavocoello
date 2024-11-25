@@ -15,7 +15,7 @@
  
  🔭 Ready to take on new challenges in **Data Science** 🚀
  
- 🌱 I’m currently learning **Pytorch, kubernetes, AWS, JenKins**
+ 🌱 I’m currently learning **Databricks, Azure, AWS, Docker**
 
  💬 Ask me about **Since I was young, I've always been fascinated by software, laptops, setups, and solving Windows issues. <div> I've spent a lot of time fixing these problems, and now, with my knowledge in Data Science, I solve problems using data</div>.**
 
@@ -40,13 +40,17 @@
     <!-- Lenguajes de Programación -->
     <img src="https://skillicons.dev/icons?i=python" />
     <!-- Bibliotecas y Frameworks de Machine Learning -->
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     <!-- Big Data y Bases de Datos -->
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <!-- Herramientas de Desarrollo y Control de Versiones -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <!-- Entornos de Despliegue y MLOps -->
     <img src="https://skillicons.dev/icons?i=kubernetes,fastapi" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" />
+    <!-- Nube  -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
