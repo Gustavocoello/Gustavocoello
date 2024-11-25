@@ -48,7 +48,7 @@
     <!-- Entornos de Despliegue y MLOps -->
     <img src="https://skillicons.dev/icons?i=kubernetes,fastapi" />
     <!-- Nube  -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" height="60" />
     <!-- Librerias -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" />
