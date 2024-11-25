@@ -40,17 +40,20 @@
     <!-- Lenguajes de Programación -->
     <img src="https://skillicons.dev/icons?i=python" />
     <!-- Bibliotecas y Frameworks de Machine Learning -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" />
     <!-- Big Data y Bases de Datos -->
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <!-- Herramientas de Desarrollo y Control de Versiones -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <!-- Entornos de Despliegue y MLOps -->
     <img src="https://skillicons.dev/icons?i=kubernetes,fastapi" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" width="60" height="60" />
     <!-- Nube  -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="60" height="60" />
+    <!-- Librerias -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="60" height="60" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
