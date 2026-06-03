@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Hi there! 👋 I'm Gustavo<br>A passionate Data Scientist, ML Enthusiast & AI Systems Builder 🚀<br><br>Since I was young, I've always been fascinated by software, setups, and solving complex Windows issues. I spent countless hours fixing computers, which naturally evolved into a passion for Data Science. Today, I use that same problem-solving mindset to build data-driven solutions and intelligent AI systems.<br><br>🔭 Currently working on: Building and deploying AI Multi-Agent architectures, connecting complex microservices (like MCPs), and bridging the gap between Data Science and Software Engineering.<br>🌱 Currently learning: Databricks, Azure, AWS, Docker, and advanced DevOps practices.<br>💡 My Superpower: I'm a fast learner who loves the DevOps culture. I really enjoy connecting APIs, orchestrating services, and deploying robust applications to production (Linux/Cloud).<br>💬 Ask me about: Machine Learning, Data Analytics, integrating LLMs, or how to automate and deploy your workflows.<br>⚡ Fun fact: When I'm not coding or breaking servers, my hobbies are playing video games 🎮 and soccer ⚽!
 
 
